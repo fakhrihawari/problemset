@@ -3,6 +3,7 @@ def solution(A):
     :param A: non-empty list of integers
     :return: an integer - the smallest positive integer that is missing
     """
+    #versi-mudah
     missing = 1
     # for elem in sorted(A):
     #     if elem == missing:
@@ -11,12 +12,14 @@ def solution(A):
     #
     #     if elem > missing:
     #         break
+
+    # versi-sedikit ribet
     i=0
     A=sorted(A);
     while i< len(A):
         if A[i]==missing:
 
-            print A[i]
+           
             i=i+1
             missing += 1
         elif A[i]<missing:
