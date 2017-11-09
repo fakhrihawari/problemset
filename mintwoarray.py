@@ -26,4 +26,4 @@ def mintwoarray(A,B):
 
 B=[1,9,5,10,11,12];
 A=[4,2,9,3,2];
-print duamin(A,B);
+print mintwoarray(A,B);
