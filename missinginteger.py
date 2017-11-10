@@ -4,6 +4,7 @@ def solution(A):
     :return: an integer - the smallest positive integer that is missing
     """
     missing = 1
+    #versi dengan code yang pendek
     # for elem in sorted(A):
     #     if elem == missing:
     #         # print missing
@@ -11,6 +12,9 @@ def solution(A):
     #
     #     if elem > missing:
     #         break
+    
+    
+    # versi yang agak panjang
     i=0
     A=sorted(A);
     while i< len(A):
