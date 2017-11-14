@@ -19,7 +19,7 @@ def solution(A):
     while i< len(A):
         if A[i]==missing:
 
-           
+
             i=i+1
             missing += 1
         elif A[i]<missing:
