@@ -1,2 +1,2 @@
 # problemset
-Berisi problem set dan solusinya
+Berisi soal-soal programing dan solusinya
