@@ -4,6 +4,6 @@ Berisi soal-soal programing dan solusinya
 2. Menemukan integer yang hilang
 3. Membagi buah semangka 
 4. Menghitung jumlah keramik yang dibutuhkan untuk suatu teater
-
+5. coming soon
 ###############################################################
 
