@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#Untuk mencar tahu apakah  semangka bisa dibagi ke lebih dari 2 orang dengan bagian yang sama
-=======
 ##Untuk mencar tahu apakah  semangka bisa dibagi ke lebih dari 2 orang dengan bagian yang sama
 >>>>>>> edit-watermelon
 x= input("");
