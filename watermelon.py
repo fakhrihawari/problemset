@@ -1,4 +1,4 @@
-#Untuk mencar tahu apakah  semangka bisa dibagi ke lebih dari 2 orang dengan bagian yang sama
+##Untuk mencar tahu apakah  semangka bisa dibagi ke lebih dari 2 orang dengan bagian yang sama
 x= input("");
 x= int(x);
 if (x%2!=0):
